@@ -7,3 +7,5 @@ I hope it will help you.
 
 Thanks and Enjoy coding,
 Jayesh
+
+Keywords : tensorflow, keras, CNN, transfer learning, face detection, stream data, prediction model, Deep learning.
