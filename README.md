@@ -1,4 +1,4 @@
-# age_gender_detection
+# Age gender Detection
 
 Prediction model is generated for age and gender using tensorflow which we use it in prediction of age and gender. We use the image from the streaming live feed of webcam to show box around the detected face with predicted age and gender above the box.
 
